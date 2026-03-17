@@ -50,6 +50,10 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 ---
 
 ##  Aperçu
+
+### Présentation générale de l'outil
+![Interface](Images/Présentation_générale.png)
+
 ### Interface principale : Stock
 ![Interface](Images/Feuille_Stock.png)
 
