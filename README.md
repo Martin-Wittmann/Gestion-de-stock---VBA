@@ -55,7 +55,7 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 ![Interface](Images/Présentation_générale.png)
 
 ### Feuille "Stock"
-![Interface](Images/Feuille_Stock.png)
+![Interface](Images/Feuille_Stock.png) ![Interface](Images/Feuille_Entrée.png)
 
 ### Feuille "Entrée"
 ![Interface](Images/Feuille_Entrée.png)
