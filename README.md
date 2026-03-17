@@ -54,8 +54,11 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 ### Présentation générale de l'outil
 ![Interface](Images/Présentation_générale.png)
 
-### Interface principale : Stock
+### Feuille "Stock"
 ![Interface](Images/Feuille_Stock.png)
+
+### Feuille "Entrée"
+![Interface](Images/Feuille_Entrée.png)
 
 ### Interface Modification ou suppression d'un produit dans le catalogue
 ![Interface](Images/Formulaire_Modification-Suppression_Catalogue.png)
