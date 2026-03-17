@@ -70,7 +70,7 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 ![Interface](Images/Formulaire_Facture.png)
 
 ### Feuille "Catalogue"
-![Interface](Images/Feuille_Catalogue.png)
+![Interface](Images/Feuille_Stock.png)
 
 ### formulaire : Modification ou suppression d'un produit dans le catalogue
 ![Interface](Images/Formulaire_Modification-Suppression_Catalogue.png)
