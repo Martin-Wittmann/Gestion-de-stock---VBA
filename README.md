@@ -109,16 +109,19 @@ Cela permet d’assurer une traçabilité complète et de générer des document
 
 ##  Tests et validation
 
-Afin de garantir la fiabilité du système, un fichier de suivi des tests a été mis en place.
+Afin de garantir la fiabilité du système, un fichier de suivi des tests complet a été mis en place.
 
-Celui-ci permet de vérifier les principales fonctionnalités de l’outil :
+Ce document couvre l’ensemble des fonctionnalités de l’outil et permet de valider leur bon fonctionnement dans différents cas d’usage.
 
-- Vérification de la cohérence des données (prix, quantités)
-- Validation du regroupement des produits
-- Contrôle de l’affichage des informations
-- Vérification des mises à jour du stock
+Les vérifications incluent notamment :
 
-Cette approche permet d’assurer la robustesse du système dans un contexte d’utilisation réel.
+- Vérification de la cohérence des données (prix, quantités)  
+- Validation du regroupement des produits  
+- Contrôle de l’affichage des informations  
+- Vérification des mises à jour du stock  
+- Tests des différents scénarios d’utilisation (entrée, sortie, ajout, modification)  
+
+Ce fichier constitue un véritable plan de validation fonctionnelle, assurant la robustesse et la fiabilité du système dans un contexte d’utilisation réel.
 
 ![Fichier Test](Images/Fichier_Test.png)
 
