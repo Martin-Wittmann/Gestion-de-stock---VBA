@@ -76,7 +76,7 @@ Elle constitue le cœur du système, où toutes les données sont centralisées 
 ---
 
 ###  Ajout de produit via formulaire
-![Formulaire Entrée Manuelle](Images/Formulaire_Entrée_Manuelle.png)
+![Formulaire Entrée Manuelle](Images/Formulaire_Ajout_Produit_Catalogue.png)
 
 Lorsqu’un produit n’est pas reconnu dans le catalogue, un formulaire interactif permet de l’ajouter rapidement.  
 Ce formulaire intègre des contrôles de validation (format des données, unicité, cohérence), garantissant la fiabilité des informations enregistrées.
