@@ -53,6 +53,9 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 ### Interface principale : Stock
 ![Interface](Images/Feuille_Stock.png)
 
+### Interface Modification ou suppression d'un produit dans le catalogue
+![Interface](Images/Formulaire_Modification-Suppression_Catalogue.png)
+
 Exemples :
 - Interface principale
 - Formulaire d’ajout / modification
