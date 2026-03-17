@@ -60,13 +60,26 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 ### Feuille "Entrée"
 ![Interface](Images/Feuille_Entrée.png)
 
-### Interface Modification ou suppression d'un produit dans le catalogue
+### Formulaire : Entrée manuelle de produit dans le stock
+![Interface](Images/Formulaire_Entrée_Manuelle.png)
+
+### Feuille "Historique"
+![Interface](Images/Feuille_Historique.png)
+
+### Formulaire : Facture
+![Interface](Images/Formulaire_Facture.png)
+
+### Feuille "Catalogue"
+![Interface](Images/Feuille_Catalogue.png)
+
+### formulaire : Modification ou suppression d'un produit dans le catalogue
 ![Interface](Images/Formulaire_Modification-Suppression_Catalogue.png)
 
-Exemples :
-- Interface principale
-- Formulaire d’ajout / modification
-- Vue du stock
+### Feuille "Paramètres"
+![Interface](Images/Feuille_Paramètres.png)
+
+### Extrait du mode d'emploi
+![Interface](Images/Mode_d'emploi.png)
 
 ---
 
